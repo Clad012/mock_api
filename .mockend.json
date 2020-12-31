@@ -1,0 +1,10 @@
+{
+  "Etudiant": {
+    "name": "string",
+    "lastname": "int",
+    "classe": "boolean",
+    "sexe": "date",
+  
+  },
+
+}
