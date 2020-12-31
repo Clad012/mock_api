@@ -3,7 +3,7 @@
     "etudiantId": "int",
     "etudiantNom": "string",
     "etudiantPrenom": "string",
-    "etudiantCin": "string",
+    "etudiantEmail": "string",
     "etudiantDate_naissance": "date",
     "etudiantClasse": "string",
     "etudiantSexe": "string"
