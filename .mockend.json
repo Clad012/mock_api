@@ -1,8 +1,11 @@
 {
   "Etudiant": {
-    "name": "string",
-    "lastname": "int",
-    "classe": "boolean",
-    "sexe": "date"
+    "etudiantId": "int",
+    "etudiantNom": "string",
+    "etudiantPrenom": "string",
+    "etudiantCin": "string",
+    "etudiantDate_naissance": "date",
+    "etudiantClasse": "string",
+    "etudiantSexe": "string"
   }
 }
