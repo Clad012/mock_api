@@ -16,5 +16,14 @@
     "date_naissance": "date",
     "classe": "string",
     "sexe": "string"
+  },
+  "Cadre": {
+    "id": "int",
+    "nom": "string",
+    "prenom": "string",
+    "email": "string",
+    "date_naissance": "date",
+    "classe": "string",
+    "sexe": "string"
   }
 }
