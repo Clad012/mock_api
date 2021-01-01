@@ -14,7 +14,7 @@
     "prenom": "string",
     "email": "string",
     "date_naissance": "date",
-    "classe": "string",
+    "grade": "string",
     "sexe": "string"
   },
   "Cadre": {
@@ -23,7 +23,7 @@
     "prenom": "string",
     "email": "string",
     "date_naissance": "date",
-    "classe": "string",
+    "poste": "string",
     "sexe": "string"
   }
 }
