@@ -9,12 +9,12 @@
     "sexe": "string"
   },
   "Enseignant": {
-  "id": "int",
-  "nom": "string",
-  "prenom": "string",
-  "email": "string",
-  "date_naissance": "date",
-  "classe": "string",
-  "sexe": "string"
+    "id": "int",
+    "nom": "string",
+    "prenom": "string",
+    "email": "string",
+    "date_naissance": "date",
+    "classe": "string",
+    "sexe": "string"
   }
 }
